@@ -1,0 +1,45 @@
+
+{
+  "approved_categories": {
+    "branch_type": [
+      "Urban",
+      "Suburban",
+      "Community"
+    ],
+    "active_flag": ["Y", "N"],
+    "transaction_type": [
+      "Deposit",
+      "Withdrawal",
+      "Transfer",
+      "Account Payment",
+      "Cashier Check",
+      "Account Maintenance"
+    ],
+    "channel": [
+      "Teller",
+      "ATM",
+      "Self-Service",
+      "Appointment"
+    ],
+    "transaction_status": [
+      "Completed",
+      "Failed",
+      "Reversed",
+      "Pending"
+    ],
+    "service_type": [
+      "Account Support",
+      "New Membership",
+      "Loan Support",
+      "Card Support",
+      "General Inquiry",
+      "Fraud Support"
+    ],
+    "visit_outcome": [
+      "Resolved",
+      "Escalated",
+      "Follow-Up Required",
+      "Abandoned"
+    ]
+  }
+}
