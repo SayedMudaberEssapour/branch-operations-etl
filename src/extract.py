@@ -3,6 +3,11 @@
 
 # here I am reading all four source CSV files into Python using pandas.
 
+
+# dtype=str preserves malformed values for later validation.
+# keep_default_na=False lets us explicitly detect missing fields.
+# extract_all() provides one reusable extraction function for our ETL pipeline.
+
 from pathlib import Path
 
 import pandas as pd
