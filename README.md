@@ -105,7 +105,9 @@ Fifteen PostgreSQL analytical views support operational reporting, including tra
 
 ## Power BI Dashboard
 
-![Branch Operations Power BI Dashboard](docs\Screen_shots\powerbi_dashboard.png)
+![Branch Operations Power BI Dashboard](docs\Screen_shots\Updated_PBI.png)
+
+
 
 
 
@@ -121,7 +123,9 @@ The interactive dashboard includes:
 
 The dashboard is built using PostgreSQL analytical views and is provided as a Power BI Desktop report.
 
-**Report file:** `powerbi/Branch_Operations_Dashboard.pbix`
+**Report file:** `Power BI/Branch_Operations_Dashboard.pbix`
+
+
 
 *Note: Data is synthetic. Some dashboard KPI aggregations are MVP implementations and are planned for further refinement.*
 
